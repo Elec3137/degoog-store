@@ -14,11 +14,11 @@
   --border: #5f6368;
   --border-light: #303134;
   --text-primary: #fff;
-  --text-secondary: #ccc;
+  --text-secondary: #fff;
   --text-link: #8ab4f8;
   --text-link-visited: #c58af9;
-  --text-cite: #bdc1c6;
-  --text-snippet: #bdc1c6;
+  --text-cite: #fff;
+  --text-snippet: #fff;
   --search-bar-bg: #303134;
   --search-bar-bg-hover: #303134;
   --btn-bg: #303134;
