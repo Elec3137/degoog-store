@@ -1,0 +1,17 @@
+{
+  "name": "degoog-store",
+  "description": "a personal store, initially created for a black theme",
+  "author": "electria",
+  "plugins": [],
+  "themes": [
+    {
+      "path": "themes/black",
+      "name": "black (AMOLED) theme",
+      "description": "like the default theme, but with a black background",
+      "version": "1.0.0"
+    }
+  ],
+  "engines": [],
+  "transports": [],
+}
+
