@@ -7,14 +7,14 @@
   --danger: #ea4335;
   --warning: #fbbc05;
   --success: #34a853;
-  --bg: #25272e;
-  --bg-light: #303134;
-  --bg-hover: #3c4043;
+  --bg: #000;
+  --bg-light: #111;
+  --bg-hover: #222;
   --modal-footer: rgb(60 64 67);
   --border: #5f6368;
   --border-light: #303134;
-  --text-primary: #dddddd;
-  --text-secondary: #9aa0a6;
+  --text-primary: #fff;
+  --text-secondary: #ccc;
   --text-link: #8ab4f8;
   --text-link-visited: #c58af9;
   --text-cite: #bdc1c6;
@@ -24,5 +24,5 @@
   --btn-bg: #303134;
   --btn-text: var(--text-primary);
   --overlay-bg: rgba(0, 0, 0, 0.6);
-  --white: #fff3f3;
+  --white: #fff;
 }
